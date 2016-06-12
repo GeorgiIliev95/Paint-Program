@@ -1,0 +1,16 @@
+﻿Build started 5.6.2016 г. 16:29:00 ч..
+     1>Project "D:\Win32Project2\Win32Project2\Win32Project2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Win32Project2.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Win32Project2.cpp
+         Win32Project2.cpp
+     1>d:\win32project2\win32project2\win32project2.cpp(279): warning C4101: 'bRet': unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Win32Project2\Debug\Win32Project2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Win32Project2\Debug\Win32Project2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Win32Project2\Debug\Win32Project2.lib" /MACHINE:X86 Debug\Win32Project2.res
+         Debug\stdafx.obj
+         Debug\Win32Project2.obj
+         Win32Project2.vcxproj -> D:\Win32Project2\Debug\Win32Project2.exe
+     1>Done Building Project "D:\Win32Project2\Win32Project2\Win32Project2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.20
